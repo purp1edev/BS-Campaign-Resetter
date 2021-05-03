@@ -4,6 +4,8 @@ A simple python program which will reset the progress of your campaign on the wi
 
 ## Instructions
 
+Download the .exe from releases
+
 Copy the exe into "C:\Users\YOUR_USERNAME\AppData\LocalLow\Hyperbolic Magnetism\Beat Saber"
 (If you have the folder on another drive, use that instead of C:)
 
